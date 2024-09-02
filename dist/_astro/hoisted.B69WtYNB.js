@@ -1,0 +1,1 @@
+import{i}from"./scroll.Bl8OhInl.js";import"./hoisted.D-c3D7dh.js";import"./project-card.astro_astro_type_script_index_0_lang.DTFcCMCk.js";import"./router.7tVD49SL.js";document.addEventListener("astro:page-load",()=>{i()});
